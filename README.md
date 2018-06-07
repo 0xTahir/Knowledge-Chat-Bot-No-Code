@@ -15,9 +15,7 @@ This post is divided into following three sections:
 
 Following is the architecture of our solution where we will build a service (bot's brain) in QnA Maker and then fill it with our Knowledge Base. Then we will create our bot in Azure Bot Services and link it to the bot's brain (MyBotService) and then we can publish our bot via different channels. We can use Channels to display our bot inside a SharePoint Page, Skype, Teams, Facebook Messenger etc.
 
-
-
-
+[[https://github.com/BotNinja/Knowledge-Chat-Bot-No-Code/blob/master/images/01.png]]
 
 
 ## Building the Knowledge Base (KB) 
