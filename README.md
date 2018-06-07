@@ -33,18 +33,24 @@ Following is the architecture of our solution where we will build a service (bot
 **Note:** You can access further documentation about QnA Maker at https://qnamaker.ai/Documentation.
 
 ## Building the Chat Bot 
+1. Log on to Azure at http://portal.azure.com.
+2. Select **New** and go to **AI + Cognitive Services** section and choose **Web App Bot**.
 
-Log on to Azure at http://portal.azure.com.
-Select New and go to AI + Cognitive Services section and choose Web App Bot.
+<img src="https://github.com/BotNinja/Knowledge-Chat-Bot-No-Code/blob/master/images/05.png" width="75%" height="75%">
 
-Provide a unique Bot Name (e.g. DemoBot101), select Subscription and then choose Bot template as Question and Answer. You can also choose between C# or Node.js SDK which doesn't matter in this case as we are not writing any code. Select Create button at the end to create the Bot.
+3. Provide a unique Bot Name (e.g. DemoBot101), select **Subscription** and then choose **Bot template** as **Question and Answer**. You can also choose between C# or Node.js SDK which doesn't matter in this case as we are not writing any code. Select Create button at the end to create the Bot.
+<img src="https://github.com/BotNinja/Knowledge-Chat-Bot-No-Code/blob/master/images/06.png" width="75%" height="75%">
 
-Once the basic bot has been created you will be notified and select Go to resources from the notification section to see the Bot's details, settings etc.
+4. Once the basic bot has been created you will be notified and select **Go to resources** from the notification section to see the Bot's details, settings etc.
+<img src="https://github.com/BotNinja/Knowledge-Chat-Bot-No-Code/blob/master/images/07.png" width="75%" height="75%">
 
-Select Application Settings of the bot and go to the App settings section and provide the value of the keys QnAKnowledgebaseId and QnASubscriptionKey which we copied while creating the MyBotService and hit Save.
+5. Select **Application Settings** of the bot and go to the **App settings** section and provide the value of the keys **QnAKnowledgebaseId** and **QnASubscriptionKey** which we copied while creating the MyBotService and hit **Save**.
+<img src="https://github.com/BotNinja/Knowledge-Chat-Bot-No-Code/blob/master/images/08.png" width="75%" height="75%">
 
-Now you can test the bot from Test in Web Chat tab.
+6. Now you can test the bot from **Test in Web Chat** tab.
+<img src="https://github.com/BotNinja/Knowledge-Chat-Bot-No-Code/blob/master/images/09.png" width="75%" height="75%">
 
-Once the testing is completed, this Chat Bot can be published to web, Skype, Teams, MSN Messenger etc via Channels.
+7. Once the testing is completed, this Chat Bot can be published to web, Skype, Teams, MSN Messenger etc via **Channels**.
+<img src="https://github.com/BotNinja/Knowledge-Chat-Bot-No-Code/blob/master/images/10.png" width="75%" height="75%">
 
-Note: You can access Azure Bot Services documentation here: https://azure.microsoft.com/en-us/services/bot-service
+**Note:** You can access Azure Bot Services documentation here: https://azure.microsoft.com/en-us/services/bot-service
