@@ -54,4 +54,6 @@ Following is the architecture of our solution where we will build a service (bot
 7. Once the testing is completed, this Chat Bot can be published to web, Skype, Teams, MSN Messenger etc via **Channels**.
 <img src="https://github.com/BotNinja/Knowledge-Chat-Bot-No-Code/blob/master/images/10.png" width="75%" height="75%">
 
+Thats it :o). Your bot is ready. You can place it in a webpage or in FB messanger.
+
 **Note:** You can access Azure Bot Services documentation here: https://azure.microsoft.com/en-us/services/bot-service
