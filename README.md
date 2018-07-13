@@ -2,7 +2,7 @@
 
 Recently my customers was looking for a solution where on-field guys can search for answers related to their tasks and it was a perfect scenario to develop a Chat Bot. [Microsoft Bot Framework](https://dev.botframework.com/) has been available for quite some time now and its functionality is keep on getting enhanced with different aspect of Artificial Intelligence like speech recognition, face recognition etc. With recent [announcement](https://techcrunch.com/2017/12/13/microsoft-makes-azure-bot-service-generally-available/) of GA of [Azure Bot Services](https://azure.microsoft.com/en-us/services/bot-service/), now we have one place to develop, deploy and expose our intelligent bots to channels like Web, Skype, FB Messenger etc.
 
-In this post, I will walk you through Azure Bot Services(https://docs.microsoft.com/en-us/Bot-Framework) to build and connect a bot but first we need to build our bot's brain and fill it with the knowledge using QnAMaker( http://qnamaker.ai). 
+In this post, I will walk you through Azure Bot Services(https://docs.microsoft.com/en-us/Bot-Framework) to build a bot without writing a single line of code but first we need to build our bot's brain and fill it with some knowledge using QnAMaker( http://qnamaker.ai). 
 
 This post is divided into following three sections: 
 1. Architecture
